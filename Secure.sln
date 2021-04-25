@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secure.Sales.Bff.Api", "Secure.Sales.Bff.Api\Secure.Sales.Bff.Api.csproj", "{BC198853-821E-41A9-9F48-757271D740FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secure.Sales.Orders.Api", "Secure.Sales.Orders.Api\Secure.Sales.Orders.Api.csproj", "{16AC3714-F803-43DE-95A7-CA3DCAE294FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secure.Sales.Products.Api", "Secure.Sales.Products.Api\Secure.Sales.Products.Api.csproj", "{727863A7-FC99-4D62-9230-C083BA38E200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC198853-821E-41A9-9F48-757271D740FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC198853-821E-41A9-9F48-757271D740FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC198853-821E-41A9-9F48-757271D740FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC198853-821E-41A9-9F48-757271D740FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AC3714-F803-43DE-95A7-CA3DCAE294FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AC3714-F803-43DE-95A7-CA3DCAE294FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AC3714-F803-43DE-95A7-CA3DCAE294FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AC3714-F803-43DE-95A7-CA3DCAE294FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{727863A7-FC99-4D62-9230-C083BA38E200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{727863A7-FC99-4D62-9230-C083BA38E200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{727863A7-FC99-4D62-9230-C083BA38E200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{727863A7-FC99-4D62-9230-C083BA38E200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
